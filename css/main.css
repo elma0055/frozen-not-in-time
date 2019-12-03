@@ -35,3 +35,9 @@ p {
 .btn-ghost:hover {
   border-color: #990073;
 }
+
+.text-box {
+  transform-origin: left center;
+  padding-left: 6%;
+  animation: fading 3500ms linear;
+}
