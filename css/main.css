@@ -1,5 +1,5 @@
 html {
-  font-family: 'Fredoka One', sans-serif;
+  font-family: "Fredoka One", sans-serif;
 }
 
 section {
@@ -10,7 +10,7 @@ section {
 
 .title {
   color: #990073;
-  transform: rotate (-8deg)
+  transform: rotate(-8deg);
   margin-left: -15px;
 }
 
@@ -105,7 +105,7 @@ p {
 
 @keyframes cone-drop {
 
-  0 {
+  0% {
     bottom: 100%;
   }
 
@@ -117,7 +117,7 @@ p {
 
 @keyframes mint-drop {
 
-    0 {
+    0% {
       opacity: 0%;
     }
 
@@ -130,7 +130,7 @@ p {
 
 @keyframes chocolate-drop {
 
-    0 {
+    0% {
       bottom: 0%;
     }
 
@@ -143,7 +143,7 @@ p {
 
 @keyframes fudge-drop {
 
-    0 {
+    0% {
       bottom: 0%;
     }
 
@@ -156,7 +156,7 @@ p {
 
 @keyframes cherry-drop {
 
-    0 {
+    0% {
       bottom: 0%;
     }
 
