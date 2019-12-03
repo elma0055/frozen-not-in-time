@@ -92,7 +92,7 @@ p {
   right: 35px;
   transform: scale(.7);
   z-index: 2;
-  animation: fudge-drop 500ms forwards linear 1500ms;
+  animation: fudge-drop .2s 1.5s forwards linear;
 }
 
 .cherry {
