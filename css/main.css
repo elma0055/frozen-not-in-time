@@ -2,7 +2,7 @@ html {
   font-family: "Fredoka One", sans-serif;
 }
 
-section {
+main {
   background: repeating-linear-gradient(-30deg, #b3fbff, #c9fcff 20px, #d4fdff 20px);
   min-height: 500px;
   max-height: 500px;
@@ -89,7 +89,7 @@ p {
 
 .vanilla-fudge {
   bottom: 100%;
-  right: 30px;
+  right: 35px;
   transform: scale(.7);
   z-index: 2;
   animation: fudge-drop 500ms forwards linear 1500ms;
