@@ -14,10 +14,10 @@ section {
   margin-left: -15px;
 }
 
- p, a {
+p, a {
   color: #c09;
   text-decoration: none;
- }
+}
 
 p {
   max-width: 19em;
@@ -117,52 +117,52 @@ p {
 
 @keyframes mint-drop {
 
-    0% {
-      opacity: 0;
-    }
+  0% {
+    opacity: 0;
+  }
 
-    100% {
-      bottom: 54px;
-      opacity: 1;
-    }
+  100% {
+    bottom: 54px;
+    opacity: 1;
+  }
 
 }
 
 @keyframes chocolate-drop {
 
-    0% {
-      bottom: 0;
-    }
+  0% {
+    bottom: 0;
+  }
 
-    100% {
-      bottom: 137px;
-      opacity: 1;
-    }
+  100% {
+    bottom: 137px;
+    opacity: 1;
+  }
 
 }
 
 @keyframes fudge-drop {
 
-    0% {
-      bottom: 0;
-    }
+  0% {
+    bottom: 0;
+  }
 
-    100% {
-      bottom: 212px;
-      opacity: 1;
-    }
+  100% {
+    bottom: 212px;
+    opacity: 1;
+  }
 
 }
 
 @keyframes cherry-drop {
 
-    0% {
-      bottom: 0;
-    }
+  0% {
+    bottom: 0;
+  }
 
-    100% {
-      bottom: 297px;
-      opacity: 1;
-    }
+  100% {
+    bottom: 297px;
+    opacity: 1;
+  }
 
 }
